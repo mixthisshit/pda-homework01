@@ -1,7 +1,8 @@
 """Лабораторная работа 1. Обработка данных студентов с помощью pandas.
 
 Задание: https://github.com/anastasiiaCher/pda-homework01
-Авторы: Мертехин Михаил, Смирнова Мария.
+Автор: Мертехин Михаил.
+Поток: ВизМод 3.1.
 Инструкция по сдаче:
 https://docs.google.com/document/d/1YRIsBK4yLrC8wQttdxeaVfz5hsCCvyem00035ew4oFo/edit
 Установка: python -m pip install pandas==2.2.2
@@ -11,8 +12,7 @@ https://docs.google.com/document/d/1YRIsBK4yLrC8wQttdxeaVfz5hsCCvyem00035ew4oFo/
 данные читаются из открытого репозитория, поэтому нужен интернет.
 
 Для сдачи этот файл заменяет homework01/cs102_pandas.py в личном форке.
-Название PR: «Лабораторная работа 1 — поток <номер> — Мертехин Михаил,
-Смирнова Мария». Номер потока нужно добавить перед окончательной сдачей.
+Название PR: «Лабораторная работа 1 — ВизМод 3.1 — Мертехин Михаил».
 """
 
 from pathlib import Path
